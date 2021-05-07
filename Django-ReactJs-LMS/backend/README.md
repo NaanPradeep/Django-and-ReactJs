@@ -10,6 +10,8 @@ Resource sharing:
 Used Cross-Origin Resource Sharing (CORS) headers to share resources with frontend domain.
 Reference: https://pypi.org/project/django-cors-headers/
 
+Used SQLlite for database.
+
 
 
 
